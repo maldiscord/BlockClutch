@@ -1,0 +1,10 @@
+name: PracticeKnockback
+version: ${project.version}
+main: lol.maltest.practiceknockback.PracticeKnockback
+authors: [ maltest ]
+description: BedwarsPractice BlockClutch Technique Clone
+commands:
+  setup:
+    description: Setup the  shit
+  togglebuild:
+    description: toggle
